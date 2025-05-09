@@ -1,6 +1,6 @@
-# We Care - Landing Page
+# 🚗 Shared Rides - Landing Page
 
-Este é um projeto desenvolvido como parte dos estudos de HTML, CSS e Git/GitHub pelo curso do DevClub. A proposta é uma landing page fictícia de uma empresa de cuidados com pets chamada **We Care**.
+Este é um projeto de landing page responsiva para um serviço de caronas compartilhadas, com foco em cobertura de localização ampla. Criado como parte de estudos em HTML e CSS modernos.
 
 ## 🖥️ Tecnologias utilizadas
 
